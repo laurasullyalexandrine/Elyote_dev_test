@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+7b22686f73744e616d65223a2242562d4445562d4c5341227d/var/www/html/elyote.com/bv-dev-lsa"
+		}
+	],
+	"remoteAuthority": "ssh-remote+7b22686f73744e616d65223a2242562d4445562d4c5341227d",
+	"settings": {}
+}
